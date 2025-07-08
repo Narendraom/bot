@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-GienieBot-0.1.0";
 const contentToCache = [
     "Build/bot.loader.js",
-    "Build/bot.framework.js.br",
-    "Build/bot.data.br",
-    "Build/bot.wasm.br",
+    "Build/bot.framework.js",
+    "Build/bot.data",
+    "Build/bot.wasm",
     "TemplateData/style.css"
 
 ];
